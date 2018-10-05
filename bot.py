@@ -32,9 +32,8 @@ logfile_name = bot_username + ".log"
 
 
 def create_tweet():
-    """Create the text of the tweet you want to send."""
-    # Replace this with your code!
-    text = ""
+    """The text of the tweet to be sent."""
+    text = "Testing twitter bot."
     return text
 
 
